@@ -102,4 +102,4 @@ There are a few steps you may want to take to troubleshoot these kinds of errors
 If you just want to encourage me to continue creating stuff, there are few ways you can do it:
 
 - Starring and sharing the projects you like :rocket:
-- [![Support me on Patreon][badge_patreon]][patreon]
+- [Support me on Patreon](https://www.patreon.com/isharadilshan) :love_you_gesture:

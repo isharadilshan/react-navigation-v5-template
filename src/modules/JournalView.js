@@ -2,11 +2,11 @@ import React from 'react';
 import {View, Text, StyleSheet} from 'react-native';
 import {TouchableOpacity} from 'react-native-gesture-handler';
 
-const HomeView = () => {
+const JournalView = () => {
   return (
     <View style={styles.parentContainer}>
       <TouchableOpacity style={styles.buttonWrapper}>
-        <Text>HomeView 222222 2 2 2 2 2 2 2 222 </Text>
+        <Text>HomeView 11 1 1 1 1 1 1 1 1 1 1 1 1 1 </Text>
       </TouchableOpacity>
     </View>
   );
@@ -18,10 +18,9 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
   },
-
   buttonWrapper: {
     backgroundColor: 'blue',
   },
 });
 
-export default HomeView;
+export default JournalView;
