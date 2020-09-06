@@ -19,7 +19,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   buttonWrapper: {
-    backgroundColor: 'blue',
+    backgroundColor: '#add8e6',
   },
 });
 
