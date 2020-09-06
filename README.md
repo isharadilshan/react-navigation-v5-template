@@ -1,7 +1,7 @@
 # React Native React Navigation Template
 
 This is an example app developed with [React Native](https://reactnative.dev).
-If you haven't setup the development environment yet follow this official documentation(https://reactnative.dev/docs/environment-setup)
+If you haven't setup the development environment yet follow this official [documentation](https://reactnative.dev/docs/environment-setup)
 
 ## Table of Contents
 
@@ -19,12 +19,12 @@ If you haven't setup the development environment yet follow this official docume
 
 ```
 //clone project repo
-https://github.com/isharadilshan/rn_react_navigation_v5_template.git
+git clone https://github.com/isharadilshan/rn_react_navigation_v5_template.git
 
 //changing to project directory
 cd rn_react_navigation_v5_template
 
-//install packages with yarn :heart_eyes: or npm
+//install packages with yarn or npm
 yarn install
 #or
 npm install
@@ -33,7 +33,7 @@ npm install
 
 ## Change Project Name
 
-There is a great npm package to help you out. You can easily change current project name to yours, otherwise it may be a headache. Just follow the commands below or try this(https://www.npmjs.com/package/react-native-rename) for more info.
+There is a great npm package to help you out. You can easily change current project name to yours, otherwise it may be a headache. Just follow the commands below or try [this](https://www.npmjs.com/package/react-native-rename) for more info.
 
 ```
 //install package globally
